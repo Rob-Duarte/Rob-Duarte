@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rob-Duarte, 25, currently working in a Consultant firm doing some interest projects in the fields of Data Visualization.
+- 👀 I’m interested in Business Intelligence and Azure Cloud related topics.
+- 🌱 I’m currently learning more about Azure Portal to implement some private projects related to Data Storage and Analytics.
